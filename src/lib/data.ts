@@ -39,21 +39,21 @@ export const education = [
 ];
 
 export const skills = {
-  programmingLanguages: [
+  Analytical skills: [
     "Power BI",
     "Excel",
     "Power Query",
     "SQL",
     
   ],
-  frontendDevelopment: [
+  Data Science: [
     "Python",
     "Pandas",
     "Matplotlib",
     "Scikit learn",
     
   ],
-  backendDevelopment: ["Nodejs", "Expressjs"],
+  Finance: ["Nodejs", "Expressjs"],
   databaseAndStorage: ["PostgreSQL", "Drizzle (ORM)"],
   cloudAndDevOps: ["AWS"],
   toolsAndServices: [
