@@ -54,7 +54,7 @@ export const skills = {
     
   ],
   Finance: ["Nodejs", "Expressjs"],
-  databaseAndStorage: ["PostgreSQL", "Drizzle (ORM)"],
+  databaseAndStorage: ["PostgreSQL"],
   cloudAndDevOps: ["AWS"],
   toolsAndServices: [
     "Clerk (Auth)",
