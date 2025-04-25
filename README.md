@@ -2,7 +2,7 @@
 
 A sleek, responsive portfolio website built with **Astro**, **React**, and **Tailwind CSS**, featuring modern animations and stunning glassmorphism effects.
 
-![Portfolio Screenshot](![image](https://github.com/user-attachments/assets/6494218d-0bcd-4c76-9a5c-4333f21d645c)
+(![image](https://github.com/user-attachments/assets/6494218d-0bcd-4c76-9a5c-4333f21d645c)
 
 
 ## ✨ Features
