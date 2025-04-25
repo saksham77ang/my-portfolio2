@@ -40,7 +40,7 @@ export const education = [
 
 export const skills = {
   programmingLanguages: [
-    "TypeScript",
+    "Power BI",
     "JavaScript",
     "Python",
     "C++",
