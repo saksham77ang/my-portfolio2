@@ -39,14 +39,34 @@ export const education = [
 ];
 
 export const skills = {
-  "Analytical skills": [
-    "Power BI",
-    "Excel",
+  programmingLanguages: [
+    "TypeScript",
+    "JavaScript",
     "Python",
-    "Matplotlib",
-    "Pandas",
-    "Numpy",
-    "Scikit-learn",
+    "C++",
+    "Java",
+    "Solidity",
+  ],
+  frontendDevelopment: [
+    "Nextjs",
+    "Reactjs",
+    "React Native",
+    "Shadcn UI",
+    "Tailwind CSS",
+    "HTML",
+    "CSS",
+  ],
+  backendDevelopment: ["Nodejs", "Expressjs"],
+  databaseAndStorage: ["PostgreSQL", "Drizzle (ORM)"],
+  cloudAndDevOps: ["AWS"],
+  toolsAndServices: [
+    "Clerk (Auth)",
+    "Sanity (CMS)",
+    "Tinybird (analytics)",
+    "Zod",
+    "Sentry",
+    "Mixpanel",
+    "Trigger.dev",
   ],
 };
 
