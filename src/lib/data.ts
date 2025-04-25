@@ -39,7 +39,7 @@ export const education = [
 ];
 
 export const skills = {
-  Analytical skills: [
+  Analytical-skills: [
     "Power BI",
     "Excel",
     "Power Query",
