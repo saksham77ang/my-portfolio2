@@ -31,24 +31,23 @@ export const workExperience = [
 
 export const education = [
   {
-    institution: "DURGADEVI SARAF INSTITUTE OF MANAGEMENT STUDIESy",
+    institution: "DURGADEVI SARAF INSTITUTE OF MANAGEMENT STUDIES",
     location: "Mumbai, India",
     degree: "B.Com",
     period: "Jun 2022 - Jun 2025",
-    
   },
 ];
+
 export const skills = {
-   skills: [
+  "Analytical skills": [
     "Power BI",
     "Excel",
     "Python",
     "Matplotlib",
     "Pandas",
     "Numpy",
-    "Scikit-learn"
+    "Scikit-learn",
   ],
-  
 };
 
 export const projects = [
