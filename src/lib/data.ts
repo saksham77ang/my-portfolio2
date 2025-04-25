@@ -41,11 +41,10 @@ export const education = [
 export const skills = {
   programmingLanguages: [
     "Power BI",
-    "JavaScript",
-    "Python",
-    "C++",
-    "Java",
-    "Solidity",
+    "Excel",
+    "Power Query",
+    "SQL",
+    
   ],
   frontendDevelopment: [
     "Nextjs",
