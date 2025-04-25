@@ -47,13 +47,11 @@ export const skills = {
     
   ],
   frontendDevelopment: [
-    "Nextjs",
-    "Reactjs",
-    "React Native",
-    "Shadcn UI",
-    "Tailwind CSS",
-    "HTML",
-    "CSS",
+    "Python",
+    "Pandas",
+    "Matplotlib",
+    "Scikit learn",
+    
   ],
   backendDevelopment: ["Nodejs", "Expressjs"],
   databaseAndStorage: ["PostgreSQL", "Drizzle (ORM)"],
